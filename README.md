@@ -247,4 +247,4 @@ This repository serves as the official landing page for HUPlayer. The software i
 **Get the most recent version of HUPlayer today!**
 
 ---
-**Last updated:** 2026-10-17 12:49:20 UTC
+**Last updated:** 2026-10-17 16:14:12 UTC
